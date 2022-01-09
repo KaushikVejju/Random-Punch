@@ -1,7 +1,7 @@
 # Random-Punch
 "Random Punch" is a Java-based game that simulates a fight between two Players.
 
-**Detailed Overview**
+**Detailed Overview:**
 In this game, there are two Players: A Hero and A Villain. Each player is given a health of 1000
 and a strength ranging from 200-250. Each player also has a designated special move, which will
 aid them in the fighting match. During the game, players are only allowed to land punches or
